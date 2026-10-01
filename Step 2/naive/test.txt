@@ -1,0 +1,42 @@
+
+S -> S S
+S -> Tlp Sp
+S -> Tlp Trp
+Sp -> S Trp
+Tlp -> (
+Trp -> )
+
+()
+)((()()))
+((((((()))()()))))()(
+
+S0 -> Ta X
+S0 -> Tb Y
+S0 -> Ta Ta
+S0 -> Tb Tb
+S0 -> a
+S0 -> b
+S0 ->
+S -> Ta X
+S -> Tb Y
+S -> Ta Ta
+S -> Tb Tb
+S -> a
+S -> b
+X -> S Ta
+Y -> S Tb
+Ta -> a
+Tb -> b
+a
+aa
+aba
+ab
+abba
+ba
+
+S -> a
+S ->
+
+a
+
+a

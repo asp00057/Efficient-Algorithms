@@ -1,0 +1,11 @@
+S -> S S
+S -> Tlp Sp
+S -> Tlp Trp
+Sp -> S Trp
+Tlp -> (
+Trp -> )
+
+()
+(())
+((()))
+(((())))
